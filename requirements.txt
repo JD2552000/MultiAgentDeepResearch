@@ -1,0 +1,9 @@
+crewai
+python-dotenv
+pydantic
+linkup-sdk
+langchain==0.1.0
+langchain-core==0.1.19
+langchain-community==0.0.18
+langchain-openai==0.0.2.post1
+langsmith==0.0.92
